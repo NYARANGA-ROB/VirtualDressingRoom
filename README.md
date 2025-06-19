@@ -23,4 +23,4 @@ Click on that URL and you will redirect to Default Browser on your system...<br>
 <h3>Step 5:</h3> 
 Now from our designed E-Commerce website you can select any product and after clicking <b>TRY NOW</b> button you will able to try that apparel virtually on your own body...<br>
 
-<h4>That's it... Thank You for your support... Cheers :)</h4>
+

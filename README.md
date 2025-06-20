@@ -19,7 +19,6 @@ Now type following command to run project...<br>
 <h3>Step 4:</h3> 
 After successfully completing run process you will get one <b>URL(local host url)</b>...<br>
 Click on that URL and you will redirect to Default Browser on your system...<br>
-
 <h3>Step 5:</h3> 
 Now from our designed E-Commerce website you can select any product and after clicking <b>TRY NOW</b> button you will able to try that apparel virtually on your own body...<br>
 
